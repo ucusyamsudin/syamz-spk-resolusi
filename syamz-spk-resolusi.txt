@@ -3,3 +3,6 @@ Resolusi SPK Beasiswa
 -Konsisten dalam coding Minimal 1 hari memecahkan 2 masalah
 -Memperbaiki algoritma SPK
 -Mengumpulkan Data-data yang di butuhkan dalam aplikasi SPK
+-Membuat Transaksi SPK
+-Menulusuri Hasil Dari Transaksi SPK
+-Menerulsuri Bug Pada SPK
